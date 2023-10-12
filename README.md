@@ -56,7 +56,7 @@ D. 잠재적인 신체적 위협 방지
 |beomi/KoAlpaca-65B-LoRA|-|-|-|-|-|-|-|-|
 |beomi/KoAlpaca-llama-1-7b|-|-|-|-|-|-|-|-|
 |beomi/kollama-7b|-|-|-|-|-|-|-|-|
-|beomi/llama-2-ko-7b|-|-|-|-|-|[나연](https://docs.google.com/spreadsheets/d/13E9Po64E0Pr0yt8Pzyg7eVJFU1M0G6lG/edit?usp=sharing&ouid=105848836065112163402&rtpof=true&sd=true)|-|-|
+|beomi/llama-2-ko-7b|-|-|-|-|-|[나연](https://docs.google.com/spreadsheets/d/1XGolLIOYLUfjmx1gBf2vP1Jx8azLyQ10/edit?usp=sharing&ouid=105848836065112163402&rtpof=true&sd=true)|-|-|
 |beomi/llama-2-ko-70b|-|-|-|-|-|-|-|-|
 |beomi/kollama-33b|-|-|-|-|-|-|-|-|
 |beomi/kollama-13b|-|-|-|-|-|-|-|-|
